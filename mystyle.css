@@ -46,10 +46,15 @@ button{
     width: 400px;
     height: 500px;
     background-color: white;
+<<<<<<< HEAD:mystyle.css
     border-radius: 5px;
     margin:  8px;
    overflow: hidden;
   
+=======
+    margin: 10px;
+    marging-bottom:20px
+>>>>>>> b2c733a84147a906b5d6e46c7185109432479116:css/mystyle.css
 }
 
 .tool{
@@ -77,6 +82,7 @@ button{
     outline: 0;
     border: 0;
 }
+<<<<<<< HEAD:mystyle.css
 @media screen and (max-width:400){
 .note ,.tool{
     width: 100%;
@@ -86,3 +92,5 @@ button{
    
 }
 } 
+=======
+>>>>>>> b2c733a84147a906b5d6e46c7185109432479116:css/mystyle.css
